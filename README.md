@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou o Ailton Junior, sou Programador Front-End  :computer:, atualmente estou aprendendo e criando projetos com as seguintes tecnologias:
+Sou o Ailton Junior, sou Desenvolvedor Front-End  :computer:, atualmente estou aprendendo e criando projetos com as seguintes tecnologias:
 <br>
 <br>
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
