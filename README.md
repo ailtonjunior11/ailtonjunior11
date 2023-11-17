@@ -1,11 +1,16 @@
-### Hi there 👋
-
-Sou o Ailton Junior, sou Desenvolvedor Front-End  :computer:, atualmente estou aprendendo e criando projetos Freelancer e Pessoais!
-### Tecnologias e Linguagens
+<h1>Hi there 👋🏽</h1>
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-javascript">
+<h2>Sou o Ailton Junior, sou Desenvolvedor Front-End 👨🏽‍💻, atualmente estou aprendendo e adiquirindo conhecimento dentro da formação <a href="https://rodolfomori.com.br/devclub">DevClub</a>, criando projetos Freelancer e Pessoais!</h2>
+<br>
+<h2>Tecnologias e Linguagens que utilizo ⚙💻</h2>
+<br>
+<p align="left">
+<img src="https://raw.githubusercontent.com/ailtonjunior11/Projeto-Portfolio/f683677a810569723abdb8c177210090ce0c2b5c/assets/html5-logo.png" alt="logo-html" />
+<img src="https://raw.githubusercontent.com/ailtonjunior11/Projeto-Portfolio/f683677a810569723abdb8c177210090ce0c2b5c/assets/css3-logo.png" alt="logo-css" />
+<img src="https://raw.githubusercontent.com/ailtonjunior11/Projeto-Portfolio/f683677a810569723abdb8c177210090ce0c2b5c/assets/javascript-logo.png" alt="logo-javascript" />
+<img src="https://raw.githubusercontent.com/ailtonjunior11/Projeto-Portfolio/f683677a810569723abdb8c177210090ce0c2b5c/assets/git-logo.png" alt="logo-git" />
+<img src="https://raw.githubusercontent.com/ailtonjunior11/Projeto-Portfolio/f683677a810569723abdb8c177210090ce0c2b5c/assets/github-logo.png" alt="logo-github"  />
+</p>
 <br>
 <h2>Conecte-se comigo 👇🏽</h2>
 <a href="https://www.linkedin.com/in/ailton-junior23/">
