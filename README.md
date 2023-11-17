@@ -14,7 +14,10 @@
 <br>
 <h2>Conecte-se comigo 👇🏽</h2>
 <a href="https://www.linkedin.com/in/ailton-junior23/">
-  <img src="https://github.com/ailtonjunior11/Projeto-Portfolio/blob/main/assets/logo-linkedin.png?raw=true" alt="logo-linkedin" height="70px" />
+  <img src="https://raw.githubusercontent.com/ailtonjunior11/Projeto-Portfolio/646e7520e21338e978411288907b5c3905f5dff7/assets/linkedin-logo.png" alt="logo-linkedin" />
+</a>
+<a href="https://wa.me/5581994910802">
+  <img src="https://raw.githubusercontent.com/ailtonjunior11/Projeto-Portfolio/646e7520e21338e978411288907b5c3905f5dff7/assets/whatsapp-logo.png" alt="logo-whatssap" />
 </a>
 <br>
 <br>
